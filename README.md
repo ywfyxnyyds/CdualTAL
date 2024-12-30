@@ -1,9 +1,13 @@
 Tool Wear Prediction —— CdualTAL
+
 CdualTAL: A Research on Tool Wear Prediction Based on Multi-domain Principal Feature Enhancement
+
 # Data
 The PHM 2010 dataset consists of six parts, where C1, C4, and C6 are the tool wear datasets for three different tools with labeled data, and C2, C3, and C5 are the datasets for the same three tools without labels. 
 This research selects the labeled C1, C4, and C6 datasets as experimental data. 
 Each dataset has a dimension of 315×7, containing milling force signals in the Z, Y, and X directions, vibration signals, and acoustic emission signals collected from 315 tool passes. 
+The experimental environment is shown below：
+![Experimental Conditions for PHM2010 Dataset Collection](https://github.com/user-attachments/assets/794f785d-218d-470b-89b8-199615f39a20)
 
 
 
