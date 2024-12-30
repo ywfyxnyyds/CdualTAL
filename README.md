@@ -1,4 +1,4 @@
-@[TOC](Tool Wear Prediction —— CdualTAL)
+Tool Wear Prediction —— CdualTAL
 CdualTAL: A Research on Tool Wear Prediction Based on Multi-domain Principal Feature Enhancement
 # Data
 The PHM 2010 dataset consists of six parts, where C1, C4, and C6 are the tool wear datasets for three different tools with labeled data, and C2, C3, and C5 are the datasets for the same three tools without labels. 
