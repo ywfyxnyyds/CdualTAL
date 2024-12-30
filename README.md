@@ -1,4 +1,4 @@
-Tool Wear Prediction —— CdualTAL
+# Tool Wear Prediction —— CdualTAL
 
 CdualTAL: A Research on Tool Wear Prediction Based on Multi-domain Principal Feature Enhancement
 
