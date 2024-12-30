@@ -10,7 +10,9 @@ The experimental environment is shown below：
 ![Experimental Conditions](https://github.com/user-attachments/assets/794f785d-218d-470b-89b8-199615f39a20)
 
 Considering the zero drift phenomenon in the C1, C4, and C6 datasets, the tool exhibits continuous wear during actual use. Therefore, the X, Y, and Z sensor signals from all three datasets were preprocessed to mitigate the effects of this issue. Twenty-four time-domain, frequency-domain, and time-frequency-domain features were extracted from the original signal samples of C1, C4, and C6.The cross-validation method iterates through alternating training and validation sets. 
-## 二级标题  
+# CdualTAL document
+The files, **CdualTAL-C1.ipynb**, **CdualTAL-C4.ipynb** and **CdualTAL-C6.ipynb** document the experimental procedure and experimental results of the CdualTAL model on the C1, C4, and C6 tool wear data sets.
+**Data process.ipynb** documents the data feature extraction process and visualisation.
 
 二、编辑基本语法  
 1、字体格式强调
